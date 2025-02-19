@@ -1,0 +1,11 @@
+# Reddit Story Extraction Configuration
+
+[reddit]
+# Number of stories to extract
+story_limit = 10
+
+# Sorting type ("hot", "new", "top", "rising")
+sort_by = "hot"
+
+# Target subreddit to extract stories from
+subreddit = "RealStories"

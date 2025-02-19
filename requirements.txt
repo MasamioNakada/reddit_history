@@ -1,0 +1,8 @@
+toml==0.10.2
+praw==7.8.1
+PyYAML==6.0.2
+pandas==2.2.3
+openai==1.61.1
+pyarrow==19.0.0
+SQLAlchemy==2.0.38
+python-dotenv==1.0.1
